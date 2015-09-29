@@ -40,10 +40,14 @@
     width:100px;
   }
 
+  .allprojects {
+    width: auto;
+  }
+
   #project1 {
-    margin: 20px 0px 0px 0px;
+    margin: 40px 0px 0px 0px;
     height: 300px;
-    width: 200px;
+    width: 400px;
     border: 2px;
     border-color: white;
   }
