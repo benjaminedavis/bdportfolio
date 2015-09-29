@@ -37,7 +37,6 @@
   }
 
   #project1 {
-    background-color: #5c6571;
     float:left;
     padding: 10px 10px 10px 10px;
     margin: 20px 40px 20px 40px;
@@ -45,7 +44,6 @@
   }
 
   #project2 {
-    background-color: white;
     float: left;
     padding: 10px 10px 10px 10px;
     margin: 20px 40px 20px 40px;
@@ -53,20 +51,20 @@
   }
 
   #project3 {
-    background-color: #49515A;
     float: left;
     padding: 10px 10px 10px 10px;
     margin: 20px 40px 20px 40px;
     width: auto;
   }
 
+.appname {
+  font-size: 55px
+}
 
-  @media screen and (max-width: 400px) {
-     #one {
-      float: none;
-      margin-right:0;
-      width:auto;
-      border:0;
-      border-bottom:2px solid #000;
-    }
-  }
+.appshortdesc {
+  font-size: 20px
+}
+
+.applongdesc {
+  font-size: 14px
+}
