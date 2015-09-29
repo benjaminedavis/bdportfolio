@@ -14,7 +14,7 @@
   }
 
   .address h3 {
-    font-size: 17px;
+    font-size: 16px;
   }
 
   #city {
@@ -57,8 +57,22 @@
     width: auto;
   }
 
+.links a {
+  height: 10px;
+}
+
+.wrapper {
+}
+
+.appcontainer {
+}
+
+.appimage {
+  margin: 15px 0px 15px 0px;
+}
+
 .appname {
-  font-size: 55px
+  font-size: 60px
 }
 
 .appshortdesc {
