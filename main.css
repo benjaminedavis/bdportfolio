@@ -4,10 +4,6 @@
   margin: 20px 0px 0px 0px;
 }
 
-#allinfo h1, h2, h3 {
-  /*color: white;*/
-}
-
   #name {
     font-size: 80px;
   }
@@ -40,14 +36,37 @@
     width:100px;
   }
 
-  .allprojects {
+  #project1 {
+    background-color: #5c6571;
+    float:left;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 40px 20px 40px;
     width: auto;
   }
 
-  #project1 {
-    margin: 40px 0px 0px 0px;
-    height: 300px;
-    width: 400px;
-    border: 2px;
-    border-color: white;
+  #project2 {
+    background-color: white;
+    float: left;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 40px 20px 40px;
+    width: auto;
+  }
+
+  #project3 {
+    background-color: #49515A;
+    float: left;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 40px 20px 40px;
+    width: auto;
+  }
+
+
+  @media screen and (max-width: 400px) {
+     #one {
+      float: none;
+      margin-right:0;
+      width:auto;
+      border:0;
+      border-bottom:2px solid #000;
+    }
   }
