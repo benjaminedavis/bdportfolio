@@ -1,0 +1,49 @@
+#allinfo {
+  /*display: none;*/
+  text-align: center;
+  margin: 20px 0px 0px 0px;
+}
+
+#allinfo h1, h2, h3 {
+  /*color: white;*/
+}
+
+  #name {
+    font-size: 80px;
+  }
+
+  #title {
+    margin-top: -8px;
+    font-size: 22px;
+  }
+
+  .address h3 {
+    font-size: 17px;
+  }
+
+  #city {
+    margin: 35px 0px 0px 0px;
+  }
+
+
+  .linksect {
+    margin: 20px 0px 0px 0px;
+  }
+
+  #linkedin {
+    height:40px;
+    width:100px;
+  }
+
+  #github {
+    height:40px;
+    width:100px;
+  }
+
+  #project1 {
+    margin: 20px 0px 0px 0px;
+    height: 300px;
+    width: 200px;
+    border: 2px;
+    border-color: white;
+  }
