@@ -65,6 +65,11 @@
 }
 
 .appcontainer {
+  /*width: 500px;
+  height: 320px;
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;*/
 }
 
 .appimage {
@@ -81,4 +86,8 @@
 
 .applongdesc {
   font-size: 14px
+}
+
+.appimages {
+  margin: 5px 5px 5px 5px;
 }
