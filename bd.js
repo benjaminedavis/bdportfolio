@@ -1,4 +1,4 @@
 
-$(document).ready(function() {
-    $('#allinfo').fadeIn(5000);
+$(document).ready(function () {
+    $('#allinfo').fadeIn(4000).removeClass('.testes');
 });
